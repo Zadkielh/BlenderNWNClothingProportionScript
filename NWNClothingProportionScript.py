@@ -647,6 +647,309 @@ Proportions['m']['robe']['root'] = {
     'a' : [0.64, 0.64, 0.64]
 }
 
+# Cloaks are also super fun!
+
+Proportions['f']['cloak'] = {}
+Proportions['f']['cloak']['Cloak_Skin'] = {
+    'o' : [1.96, 1.49, 1.35],
+    'g' : [1.10, 1.00, 1.05],
+    'e' : [0.83, 0.83, 0.83],
+    'd' : [1.29, 1.2, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['rootdummy'] = {
+    'o' : [1.64, 1.42, 1.33],
+    'g' : [1.26, 1.00, 1.14],
+    'e' : [0.82, 0.82, 0.86],
+    'd' : [1.32, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['torso_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['Cloak_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CL1_fg'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CL1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CL2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CL3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CL4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['cloak_shL'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['cloak_shR'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CM1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CM2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CM3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CM4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CR1_fg'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CR1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CR2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CR3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['CR4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['f']['cloak']['root'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [0.68, 0.68, 0.68],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [0.65, 0.65, 0.65]
+}
+
+
+Proportions['m']['cloak'] = {}
+Proportions['m']['cloak']['Cloak_Skin'] = {
+    'o' : [1.57, 1.49, 1.28],
+    'g' : [0.89, 1.00, 0.70],
+    'e' : [0.86, 0.86, 0.86],
+    'd' : [1.18, 1.10, 0.92],
+    'a' : [0.68, 0.68, 0.68]
+}
+Proportions['m']['cloak']['rootdummy'] = {
+    'o' : [1.64, 1.42, 1.33],
+    'g' : [0.81, 0.79, 0.73],
+    'e' : [0.84, 0.84, 0.88],
+    'd' : [1.10, 0.98, 0.91],
+    'a' : [0.72, 0.72, 0.72]
+}
+Proportions['m']['cloak']['torso_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['Cloak_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CL1_fg'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CL1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CL2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CL3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CL4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['cloak_shL'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['cloak_shR'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CM1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CM2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CM3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CM4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CR1_fg'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CR1_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CR2_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CR3_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['CR4_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+Proportions['m']['cloak']['root'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00]
+}
+
+
+
 races = ['o', 'g', 'e', 'd', 'a']
     
 def CreateNewScaledObjects(piece, name, slot):
@@ -720,7 +1023,61 @@ def CreateNewScaledRobes(piece, name, slot):
         
         newScale = (Proportions[piece.name[1:2]]['robe']['root'][races[i]][0], Proportions[piece.name[1:2]]['robe']['root'][races[i]][1], Proportions[piece.name[1:2]]['robe']['root'][races[i]][2])
         newRobe.scale = newScale
+
     
+def DuplicateCloak(piece, d, race, col, gender):
+    for k in d:
+        newRobePart = k.copy()
+        
+        if newRobePart.data:
+            newRobePart.data = k.data.copy()
+        
+        if newRobePart.animation_data:
+            newRobePart.animation_data.action = k.animation_data.action.copy()
+            
+        newRobePart.name = k.name + "_" + str(race)
+        
+        bpy.context.collection.objects.link(newRobePart)
+        
+        print(piece.name[1:2], k.name, race)
+        
+        newScale = (Proportions[gender]['cloak'][k.name][race][0], Proportions[gender]['cloak'][k.name][race][1], Proportions[gender]['cloak'][k.name][race][2])
+        newRobePart.scale = newScale
+            
+        #newRobePart.select_set(True)
+        #bpy.ops.object.transform_apply(location=False, rotation=False, scale=True)
+        newRobePart.parent = piece       
+        
+        bpy.context.collection.objects.unlink(newRobePart)
+        bpy.data.collections[col].objects.link(newRobePart)
+         
+        if not (len(d[k]) == 0):
+            DuplicateCloak(newRobePart, d[k], race, col, gender)
+        
+
+def CreateNewScaledCloak(piece, name, slot):
+    children = {}
+    GetChildren(piece, children)
+    print("New Round:")
+    
+    races = ['o', 'g', 'e', 'd', 'a']
+    
+    for i in range(len(races)):
+        
+        newRobe = piece.copy()
+        newName = list(name)
+        newName[2] = races[i]
+        newRobe.name = "".join(newName)
+        
+        #col = bpy.data.collections.new("".join(newName))
+        col = bpy.context.blend_data.collections.new(name="".join(newName))
+        bpy.context.collection.children.link(col)
+        bpy.data.collections[col.name].objects.link(newRobe)
+        
+        DuplicateCloak(newRobe, children, races[i], col.name, piece.name[1:2])
+        
+        newScale = (Proportions[piece.name[1:2]]['cloak']['root'][races[i]][0], Proportions[piece.name[1:2]]['cloak']['root'][races[i]][1], Proportions[piece.name[1:2]]['cloak']['root'][races[i]][2])
+        newRobe.scale = newScale
                     
 
 for i in range(len(selectedObjects)):
@@ -733,6 +1090,8 @@ for i in range(len(selectedObjects)):
     for n in range(len(temp)):
         if (temp[n].isnumeric()):
             break
+        elif (temp[n] == '_'):
+            break
         else:
             slot.append(temp[n])
             
@@ -740,5 +1099,7 @@ for i in range(len(selectedObjects)):
     
     if (slot == "robe"):
         CreateNewScaledRobes(selectedObjects[i], name, slot)
+    elif (slot == "cloak"):
+        CreateNewScaledCloak(selectedObjects[i], name, slot)
     else:
         CreateNewScaledObjects(selectedObjects[i], name, slot)
