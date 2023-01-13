@@ -3,6 +3,7 @@ A Proportion script for Neverwinter Nights, quickly adjusting a human clothing p
 A blender alternative to NWNArmory.
 
 Important!
+Robes and Cloaks are mostly experimental, expect manual adjustments.
 All models have to follow base game naming conventions.
 ONLY Human sized models will give the correct output as base models. This means using a dwarf chest as the base will not generate human models, nor will it give correct proportions for the rest of the races.
 
