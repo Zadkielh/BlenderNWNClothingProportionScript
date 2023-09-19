@@ -3,7 +3,7 @@ import os
 from neverblender import nvb_ops_io
 
 
-path = 'C:/Users/olemagnus/Desktop/Neverwinter Modding/export/models/clothing unsorted/pmh0/'
+path = 'path'
 
 files = os.listdir(path)
 
