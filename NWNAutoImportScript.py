@@ -3,7 +3,7 @@ import os
 from neverblender import nvb_ops_io
 
 
-path = 'path'
+path = ''
 
 files = os.listdir(path)
 

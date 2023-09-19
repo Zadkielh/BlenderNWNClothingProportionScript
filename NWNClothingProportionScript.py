@@ -621,6 +621,40 @@ Proportions['m']['robe']['torso_g'] = {
     # Custom Races
     'k' : [1.00, 1.00, 1.00]
 }
+
+Proportions['m']['robe']['shoulderpad_g'] = {
+    'o' : [1.50, 1.50, 1.30],
+    'g' : [1.30, 1.24, 1.29],
+    'e' : [0.81, 0.82, 0.90],
+    'd' : [1.27, 1.20, 0.98],
+    'a' : [0.98, 1.10, 1.08],
+    
+    # Custom Races
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['surcoat'] = {
+    'o' : [1.50, 1.50, 1.30],
+    'g' : [1.30, 1.24, 1.29],
+    'e' : [0.81, 0.82, 0.90],
+    'd' : [1.27, 1.20, 0.98],
+    'a' : [0.98, 1.10, 1.08],
+    
+    # Custom Races
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['chestmale'] = {
+    'o' : [1.50, 1.50, 1.30],
+    'g' : [1.30, 1.24, 1.29],
+    'e' : [0.81, 0.82, 0.90],
+    'd' : [1.27, 1.20, 0.98],
+    'a' : [0.98, 1.10, 1.08],
+    
+    # Custom Races
+    'k' : [1.00, 1.00, 1.00]
+}
+
 Proportions['m']['robe']['pelvis_g'] = {
     'o' : [1.50, 1.50, 1.30],
     'g' : [1.30, 1.24, 1.29],
@@ -651,6 +685,30 @@ Proportions['m']['robe']['lbicep_g'] = {
     # Custom Races
     'k' : [1.00, 1.00, 1.00]
 }
+
+Proportions['m']['robe']['sash'] = {
+    'o' : [1.21, 1.21, 0.86],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [0.83, 0.83, 0.95],
+    'd' : [1.05, 0.96, 0.86],
+    'a' : [1.10, 1.00, 0.93],
+    
+    # Custom Races
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['thighs'] = {
+    'o' : [1.21, 1.21, 0.86],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [0.83, 0.83, 0.95],
+    'd' : [1.05, 0.96, 0.86],
+    'a' : [1.10, 1.00, 0.93],
+    
+    # Custom Races
+    'k' : [1.00, 1.00, 1.00]
+}
+
+
 Proportions['m']['robe']['rbicep_g'] = {
     'o' : [1.21, 1.21, 0.86],
     'g' : [1.00, 1.00, 1.00],
@@ -716,6 +774,17 @@ Proportions['m']['robe']['rforearm_g'] = {
     
     'k' : [1.00, 1.00, 1.00],
 }
+
+Proportions['m']['robe']['neck_g'] = {
+    'o' : [1.00, 1.00, 1.20],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00],
+}
+
 Proportions['m']['robe']['lshould_g'] = {
     'o' : [1.00, 1.00, 1.20],
     'g' : [1.00, 1.00, 1.00],
@@ -852,6 +921,16 @@ Proportions['m']['robe']['coat_FR2'] = {
     'k' : [1.00, 1.00, 1.00]
 }
 
+Proportions['m']['robe']['lshoulder_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
 Proportions['m']['robe']['loincloth_B'] = {
     'o' : [1.00, 1.00, 1.00],
     'g' : [1.00, 1.00, 1.00],
@@ -872,7 +951,87 @@ Proportions['m']['robe']['loincloth_F'] = {
     'k' : [1.00, 1.00, 1.00]
 }
 
+Proportions['m']['robe']['head_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
 Proportions['m']['robe']['belt_g1'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['belt_pelvis'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['belt_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['belt'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['lfoot_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['rfoot_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['lhand_g'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['rhand_g'] = {
     'o' : [1.00, 1.00, 1.00],
     'g' : [1.00, 1.00, 1.00],
     'e' : [1.00, 1.00, 1.00],
@@ -993,7 +1152,55 @@ Proportions['m']['robe']['pocket'] = {
     'k' : [1.00, 1.00, 1.00]
 }
 
+Proportions['m']['robe']['head'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
 
+Proportions['m']['robe']['lgleft'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['lgright'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Belt'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['pelvis'] = {
+    'o' : [1.00, 1.00, 1.00],
+    'g' : [1.00, 1.00, 1.00],
+    'e' : [1.00, 1.00, 1.00],
+    'd' : [1.00, 1.00, 1.00],
+    'a' : [1.00, 1.00, 1.00],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
 
 Proportions['m']['robe']['rootdummy'] = {
     'o' : [1.09, 1.00, 1.07],
@@ -1013,6 +1220,310 @@ Proportions['m']['robe']['coat_root'] = {
     
     'k' : [1.00, 1.00, 1.00]
 }
+
+Proportions['m']['robe']['rshoulder_g'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['chest'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Lbicep_g'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Rbicep_g'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['torso_g_skin'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['saia'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Blocker_L'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Blocker_R'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Blocker_Lint'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Blocker_Rint'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Skirt_L'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Skirt_R'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Bracer_R'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Bracer_L'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Sphere01'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Sphere02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['mogami_do_plate'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['mogami_do_haidatel'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['mogami_do_haidater'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['mogami_do_uwa_obi'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Mesh02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Object01'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['Object02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['object01'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['object02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['sphere01'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['sphere02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['mesh02'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+
+
+Proportions['m']['robe']['rthigh'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+Proportions['m']['robe']['lthigh'] = {
+    'o' : [1.18, 1.18, 0.93],
+    'g' : [1.21, 1.28, 0.96],
+    'e' : [0.82, 0.86, 1.00],
+    'd' : [1.13, 1.09, 1.00],
+    'a' : [1.05, 1.34, 1.56],
+    
+    'k' : [1.00, 1.00, 1.00]
+}
+
+
 Proportions['m']['robe']['root'] = {
     'o' : [0.88, 1.04, 0.98],
     'g' : [0.645, 0.645, 0.645],
@@ -1391,9 +1902,12 @@ def GetChildren(piece, dict):
             dict[ob] = {}
             GetChildren(ob, dict[ob])
             
-def DuplicateRobe(piece, d, race, col, gender):
+def DuplicateRobe(piece, d, race, col, gender, master=False):
     for k in d:
         newRobePart = k.copy()
+        
+        savedName = k.name
+        savedName = savedName.split('.')[0]
         
         if newRobePart.data:
             newRobePart.data = k.data.copy()
@@ -1401,14 +1915,21 @@ def DuplicateRobe(piece, d, race, col, gender):
         if newRobePart.animation_data:
             newRobePart.animation_data.action = k.animation_data.action.copy()
         
-        print(piece.name[1:2], k.name, race)
+        print(piece.name[1:2], savedName, race)
         
-        newScale = (Proportions[gender]['robe'][k.name][race][0], Proportions[gender]['robe'][k.name][race][1], Proportions[gender]['robe'][k.name][race][2])
-        newRobePart.scale = newScale
+        if (master):
+            newScale = (Proportions[gender]['robe']['MHRobe'][race][0], Proportions[gender]['robe']['MHRobe'][race][1], Proportions[gender]['robe']['MHRobe'][race][2])
+            newRobePart.scale = newScale
+            
+            newRobePart.name = piece.name + "g"  
+            
+        else:
+            newScale = (Proportions[gender]['robe'][savedName][race][0], Proportions[gender]['robe'][savedName][race][1], Proportions[gender]['robe'][savedName][race][2])
+            newRobePart.scale = newScale
         
-        savedName = k.name
-        k.name = k.name + "_" + "Used"
-        newRobePart.name = savedName    
+        
+        k.name = savedName + "_" + "Used"
+        newRobePart.name = savedName
             
         #newRobePart.select_set(True)
         #bpy.ops.object.transform_apply(location=False, rotation=False, scale=True)
@@ -1444,7 +1965,7 @@ def CreateNewScaledRobes(piece, name, slot):
         bpy.context.collection.children.link(col)
         bpy.data.collections[col.name].objects.link(newRobe)
         
-        DuplicateRobe(newRobe, children, races[i], col.name, piece.name[1:2])
+        DuplicateRobe(newRobe, children, races[i], col.name, piece.name[1:2], True)
         
         newScale = (Proportions[piece.name[1:2]]['robe']['root'][races[i]][0], Proportions[piece.name[1:2]]['robe']['root'][races[i]][1], Proportions[piece.name[1:2]]['robe']['root'][races[i]][2])
         newRobe.scale = newScale
@@ -1453,6 +1974,9 @@ def CreateNewScaledRobes(piece, name, slot):
 def DuplicateCloak(piece, d, race, col, gender):
     for k in d:
         newRobePart = k.copy()
+        
+        savedName = k.name
+        savedName = savedName.split('.')[0]
         
         if newRobePart.data:
             newRobePart.data = k.data.copy()
@@ -1463,13 +1987,14 @@ def DuplicateCloak(piece, d, race, col, gender):
         
         bpy.context.collection.objects.link(newRobePart)
         
-        print(piece.name[1:2], k.name, race)
+        print(piece.name[1:2], savedName, race)
         
-        newScale = (Proportions[gender]['cloak'][k.name][race][0], Proportions[gender]['cloak'][k.name][race][1], Proportions[gender]['cloak'][k.name][race][2])
+        newScale = (Proportions[gender]['cloak'][savedName][race][0], Proportions[gender]['cloak'][savedName][race][1], Proportions[gender]['cloak'][savedName][race][2])
         newRobePart.scale = newScale
             
         
-        savedName = k.name
+        
+        
         k.name = k.name + "_" + "Used"
         newRobePart.name = savedName 
         
