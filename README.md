@@ -22,6 +22,6 @@ To get animations on your robes, apply the animation set to the base model first
 
 ## How to use (ROBES):
 1. Load the script into the text editor in blender, or use the blend file, which has it pre-loaded.
-2. Import your robe, and select the parent object (top-most in the hierarchy). Run script on the root object. If you are using a custom model, you might not have the root parent object, in which case, copy one from a base robe model and set it as the root parent.
+2. Import your robe, and select the parent object (top-most in the hierarchy). Run script on the root object. (If you want to do multiple, select only the root) If you are using a custom model, you might not have the root parent object, in which case, copy one from a base robe model and set it as the root parent.
 4. Double check output meshes, sizing is experimental and is not 100% accurate. Some races will need slight location transformation to be 1:1 aswell.
 5. Adjust as needed, export.
